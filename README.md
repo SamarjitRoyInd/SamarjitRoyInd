@@ -24,6 +24,5 @@ Product Manager — AI & Platform, on a B2B SaaS gaming platform. Open to AI/ML 
 
 ## Pinned
 
-<!-- Update these once repos are live -->
-1. **release-tracker-bot** — Slack release announcements → auto-summarized weekly doc, no manual compilation
-2. **[next build]**
+1. Product Toolkits: https://github.com/SamarjitRoyInd/ProductToolkit 
+2. Games Repo : https://github.com/SamarjitRoyInd/games 
