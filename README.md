@@ -2,7 +2,7 @@
 
 I'm a Product Manager who builds the tools I wish existed instead of just asking engineering for them.
 
-Most of my day job is product strategy, partner integrations, and AI/ML features on a B2B platform — but the repos here are different. They're internal tools and small builds I scripted myself, end to end, usually because a manual process was eating hours every week and nobody had time to fix it properly.
+Most of my day job is product strategy, partner integrations, and AI/ML features on a B2B platform but the repos here are different. They're internal tools and small builds I scripted myself, end to end, usually because a manual process was eating hours every week and nobody had time to fix it properly.
 
 ## What's here
 
@@ -16,7 +16,7 @@ I'm not an engineer by background (7+ years in product, most of it hands-on with
 
 ## Currently
 
-Product Manager — AI & Platform, on a B2B SaaS gaming platform. Open to AI/ML PM, Technical PM, and Developer Platform roles.
+Product Manager — AI & Platform, on a B2B SaaS gaming platform.
 
 - 🌐 [samarjitroy.in](https://samarjitroy.in)
 - 💼 [linkedin.com/in/samarjitroy](https://linkedin.com/in/samarjitroy)
